@@ -1,0 +1,23 @@
+Fecha;Temperatura (°C);Humedad (%);Velocidad del Viento (km/h);Precipitación (mm);Descripción
+20/09/2024;23.5;60;15;0.0;Despejado
+21/09/2024;22.1;65;18;2.3;Lluvia ligera
+22/09/2024;19.0;72;12;0.0;Nublado
+23/09/2024;25.6;58;10;0.0;Soleado
+24/09/2024;21.4;70;20;5.7;Lluvia intensa
+25/09/2024;18.8;78;25;1.0;Llovizna
+26/09/2024;24.1;63;12;0.0;Parcialmente nublado
+27/09/2024;21.5;89;32;0.1;Despejado
+28/09/2024;18.9;46;23;0.1;Lluvia ligera
+29/09/2024;24.2;45;12;2.4;Nublado
+30/09/2024;21.6;6;13;0.0;Soleado
+1/10/2024;18.10;89;34;0.0;Lluvia intensa
+2/10/2024;24.3;90;34;5.8;Llovizna
+3/10/2024;21.7;66;23;1.1;Parcialmente nublado
+4/10/2024;18.11;67;24;0.2;Despejado
+5/10/2024;24.4;65;23;0.3;Lluvia ligera
+6/10/2024;21.8;56;12;0.2;Nublado
+7/10/2024;18.12;56;15;2.5;Soleado
+8/10/2024;24.5;56;17;0.0;Lluvia intensa
+9/10/2024;21.9;78;16;0.0;Llovizna
+10/10/2024;18.13;65;12;5.9;Parcialmente nublado
+11/10/2024;24.6;98;19;1.2;Despejado
